@@ -5,6 +5,8 @@ html{
 
 .header{
   background-image: url("media/the-flatiron-building.png");
+  background-position: center;
+  background-repeat: no-repeat;
   color: white;
   font-size: 70px;
   font-weight: bold;
@@ -15,4 +17,15 @@ a{
 nav{
   font-size: 18px;
   font-weight: normal;
+}
+h2{
+  font-size: 32px;
+  font-weight: bold;
+}
+.section-title{
+  font-size: 23px;
+  font-weight: bold;
+}
+.description{
+  font-size: 14px
 }
