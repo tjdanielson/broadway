@@ -31,3 +31,8 @@ h2{
 div{
   display: run-in;
 }
+.bottom-header{
+  background-image: url("media/the-flatiron-building.png");
+  color: white;
+  font-size: 23px;
+}
