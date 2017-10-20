@@ -36,3 +36,9 @@ div{
   color: white;
   font-size: 23px;
 }
+.footer{
+  background-color: dimgray;
+  text-align: left;
+  font-size: 11px;
+  color: white;
+}
