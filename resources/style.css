@@ -2,10 +2,13 @@ html{
   text-align: center;
   font-family: Helvetica;
 }
-
+h1{
+  margin: 0px;
+}
 .header{
   background-image: url("media/the-flatiron-building.png");
   background-repeat: no-repeat;
+  background-size: cover;
   color: white;
   font-size: 40px;
   font-weight: bold;
